@@ -1,0 +1,160 @@
+header{
+display: grid;
+grid-template-columns: min-content auto auto ;
+
+margin-top: 15px;
+padding-bottom: 25px
+
+}
+
+.logo{
+float: left;
+
+}
+
+.headimg{
+    display:inline; float:right;
+    margin-right: 1px;
+
+}
+h1{
+    font-family: 'Style Script', cursive;
+    font-size: 40px;
+    margin: 0px;
+
+}
+header div{
+color: gray;
+
+}
+
+header section{
+
+margin-left: 1%;
+line-height:20px;
+align-content: center;
+position: relative;
+top: 10px;
+}
+
+body{
+
+width: 960px;
+margin: auto;
+
+}
+section div{
+
+font-size: 10px;
+
+
+}
+
+.mainone , .maintwo {
+width: 100%;
+
+}
+
+.mainsection{
+
+display: grid;
+grid-template-columns: min-content 60% auto
+
+}
+button{
+
+width:170px ;
+height: 50px;
+color: white;
+background-color: rgba(168, 63, 21, 0.671);
+align-content: center;
+position: relative;
+    right: -42%;
+}
+.centersec{
+align-content: top;
+position: relative;
+    bottom: 17px;
+    margin-left: 10px;
+}
+.topsec {
+display: grid;
+grid-template-columns: auto auto;
+
+}
+
+.imgtop{
+position:relative ;
+top: 40px;
+left: 365px;
+
+}
+.secp{
+    line-height: 0.05
+
+
+}
+
+h2{
+    font-size: 34px;
+    font-family: 'Anton', sans-serif;
+
+
+}
+.secp p {
+
+    font-size: 14px;
+color: gray;
+}
+footer{
+text-align: center;
+color: gray;
+
+}
+
+.botimg {
+    vertical-align: top;
+}
+
+.centersec h2 { 
+font-size: 22px;
+
+}
+
+#lismain {
+background-image: url(./img/list-bg.png);
+background-size: cover;
+    display: inline-block;
+    width: 100%;
+    font-size: 20px;
+    margin-bottom: 30px;
+
+}
+
+.lisone{
+
+    position: relative;
+
+    left: 93px;
+    color: gray;
+    top: 77px;
+}
+
+
+
+.listwo{
+
+    position: relative;
+    bottom: 65px;
+    left: 455px;
+    color: gray;
+}
+
+
+
+
+
+
+
+
+
